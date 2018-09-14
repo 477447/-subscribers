@@ -15,5 +15,6 @@ Return a (naively) normalized slug of a string
   return delim. join(words).strinp("-")
   import re
 	 https://github.com/477447/-subscribers.git
-   
+A provider holds its publishers alongside their
+
 	
